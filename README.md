@@ -1,6 +1,6 @@
 Bah é os guri não tem jeito 👽👽
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gbrito-code&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="" /></a> | <a href="https://github.com/Gbrito-code"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbrito-code&layout=compact&theme=buefy&hide_border=true" /></a> |
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 | ------------- | ------------- |
 
 <div style="display: inline_block"><br>
