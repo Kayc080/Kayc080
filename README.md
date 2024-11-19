@@ -1,6 +1,6 @@
 Bah é os guri não tem jeito 👽👽
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Kayc080 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Riot Games" height="50" width="140" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
